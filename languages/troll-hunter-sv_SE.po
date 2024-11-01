@@ -1,0 +1,130 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Troll Hunter\n"
+"POT-Creation-Date: 2014-12-01 14:32+0100\n"
+"PO-Revision-Date: 2014-12-01 14:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: Gavagai AB <info@gavagai.se>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../TrollHunter_OptionsManager.php:288
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte tillräcklig behörighet för att komma åt sidan."
+
+#: ../TrollHunter_OptionsManager.php:299
+msgid "PROBLEM WITH KEY."
+msgstr "PROBLEM MED APINYCKEL."
+
+#: ../TrollHunter_OptionsManager.php:315
+msgid "System Settings"
+msgstr "System Inställningar"
+
+#: ../TrollHunter_OptionsManager.php:317
+msgid "System"
+msgstr ""
+
+#: ../TrollHunter_OptionsManager.php:318
+msgid "PHP Version"
+msgstr ""
+
+#: ../TrollHunter_OptionsManager.php:323
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than PHP "
+"5.2)"
+msgstr ""
+
+#: ../TrollHunter_OptionsManager.php:329
+msgid "MySQL Version"
+msgstr ""
+
+#: ../TrollHunter_OptionsManager.php:334
+msgid ""
+"(WARNING: This plugin may not work properly with versions earlier than MySQL "
+"5.0)"
+msgstr ""
+
+#: ../TrollHunter_OptionsManager.php:342
+msgid "Settings"
+msgstr "Inställningar"
+
+#: ../TrollHunter_OptionsManager.php:343
+msgid ""
+"To use the Troll Hunter you need an apiKey which you can fetch from Gavagai. "
+"If you already have a key, paste it below."
+msgstr ""
+"För att använda Troll Hunter behöver du en apinyckel som du kan få från "
+"Gavagai. Har du redan en nyckel, klistra in den nedan."
+
+#: ../TrollHunter_OptionsManager.php:349
+msgid "Generate an apiKey"
+msgstr "Skapa en apinyckel"
+
+#: ../TrollHunter_OptionsManager.php:352
+msgid "Fetch a key from Gavagai"
+msgstr "Hämta apinyckel från Gavagai"
+
+#: ../TrollHunter_OptionsManager.php:373
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: ../TrollHunter_OptionsManager.php:431
+msgid "true"
+msgstr "sant"
+
+#: ../TrollHunter_OptionsManager.php:433
+msgid "false"
+msgstr "falskt"
+
+#: ../TrollHunter_OptionsManager.php:436
+msgid "Administrator"
+msgstr "Administratör"
+
+#: ../TrollHunter_OptionsManager.php:438
+msgid "Editor"
+msgstr "Redaktör"
+
+#: ../TrollHunter_OptionsManager.php:440
+msgid "Author"
+msgstr "Författare"
+
+#: ../TrollHunter_OptionsManager.php:442
+msgid "Contributor"
+msgstr "Bidragsgivare"
+
+#: ../TrollHunter_OptionsManager.php:444
+msgid "Subscriber"
+msgstr "Prenumerant"
+
+#: ../TrollHunter_OptionsManager.php:446
+msgid "Anyone"
+msgstr "Någon"
+
+#: ../troll-hunter.php:42
+msgid ""
+"Error: plugin \"Troll Hunter\" requires a newer version of PHP to be running."
+msgstr "Fel: plugin \"Troll Hunter\" kräver att en nyare version av PHP körs."
+
+#: ../troll-hunter.php:43
+msgid "Minimal version of PHP required: "
+msgstr "Minsta PHP version som krävs:"
+
+#: ../troll-hunter.php:44
+msgid "Your server's PHP version: "
+msgstr "Din servers PHP version:"
+
+#: ../TrollHunter_Plugin.php:16
+msgid "Enter Gavagai apiKey"
+msgstr "Skriv in Gavagai apinyckel"
+
+#: ../TrollHunter_Plugin.php:17
+msgid "Language"
+msgstr "Språk"
